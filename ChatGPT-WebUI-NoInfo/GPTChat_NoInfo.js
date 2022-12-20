@@ -1,0 +1,1 @@
+setTimeout(() => { document.getElementById("headlessui-dialog-:r0:").remove(); }, 1000);
