@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "ChatGPT-WebUI-NoInfo",
-  "version": "1.0",
+  "version": "1.1",
 
   "description": "Removes the 'This is a free research preview' text.",
 
